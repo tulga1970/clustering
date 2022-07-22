@@ -1,0 +1,17 @@
+{
+  "name": "leak-clustering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "n-gram": "^2.0.1",
+    "natural": "^5.2.2"
+  }
+}
